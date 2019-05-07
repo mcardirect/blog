@@ -1,0 +1,3 @@
+[submodule "mcardirect/themes/hugo-future-imperfect-slim"]
+	path = mcardirect/themes/hugo-future-imperfect-slim
+	url = https://github.com/pacollins/hugo-future-imperfect-slim.git
